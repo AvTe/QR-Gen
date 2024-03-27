@@ -34,9 +34,5 @@ QR Gen is provided as-is without any warranty. We are not responsible for any mi
 **Acknowledgements:**
 We would like to extend our gratitude to the developers of the libraries and tools used in creating QR Gen.
 
-**Connect with Us:**
-- Website: [Your Website URL]
-- Email: [Your Email Address]
-- Follow us on social media: [Links to your social media profiles]
 
 Thank you for using QR Gen! We hope it simplifies your QR code generation process.
