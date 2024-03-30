@@ -3,6 +3,8 @@
 **Description:**
 QR Gen is a simple and user-friendly tool designed to help users generate QR codes effortlessly. With QR Gen, users can easily create QR codes by pasting URLs or text inputs, generate the QR code instantly, and download it for their use.
 
+**Link - https://qrgenertor.netlify.app/**
+
 **Features:**
 - Easy QR code generation: Simply paste the URL or text input and generate the QR code instantly.
 - User-friendly interface: Intuitive design for seamless user experience.
